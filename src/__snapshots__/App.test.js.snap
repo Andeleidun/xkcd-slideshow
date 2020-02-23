@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <h1>
+      XKCD Slideshow App
+    </h1>
+  </header>
+  <img
+    alt="logo"
+    className="App-logo"
+    src="logo.svg"
+  />
+  <footer
+    className="nav-footer"
+  >
+    <nav>
+      <button
+        onClick={[Function]}
+      >
+        First
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        Previous
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        Next
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        Last
+      </button>
+    </nav>
+    <section
+      className="credit"
+    >
+      <p>
+        Sincere thanks to 
+        <a
+          href="https://xkcd.com"
+        >
+          Randlal Munroe over at XKCD
+        </a>
+         for making such an awesome webcomic.
+      </p>
+    </section>
+  </footer>
+</div>
+`;
