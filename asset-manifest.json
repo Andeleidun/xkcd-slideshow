@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xkcd-slideshow/static/css/main.6670f2c8.chunk.css",
+    "main.js": "/xkcd-slideshow/static/js/main.c0ab6721.chunk.js",
+    "main.js.map": "/xkcd-slideshow/static/js/main.c0ab6721.chunk.js.map",
+    "runtime-main.js": "/xkcd-slideshow/static/js/runtime-main.bbd46f6f.js",
+    "runtime-main.js.map": "/xkcd-slideshow/static/js/runtime-main.bbd46f6f.js.map",
+    "static/js/2.d593be63.chunk.js": "/xkcd-slideshow/static/js/2.d593be63.chunk.js",
+    "static/js/2.d593be63.chunk.js.map": "/xkcd-slideshow/static/js/2.d593be63.chunk.js.map",
+    "index.html": "/xkcd-slideshow/index.html",
+    "precache-manifest.46ce346286b5129bb80a921e831f3c0a.js": "/xkcd-slideshow/precache-manifest.46ce346286b5129bb80a921e831f3c0a.js",
+    "service-worker.js": "/xkcd-slideshow/service-worker.js",
+    "static/css/main.6670f2c8.chunk.css.map": "/xkcd-slideshow/static/css/main.6670f2c8.chunk.css.map",
+    "static/js/2.d593be63.chunk.js.LICENSE.txt": "/xkcd-slideshow/static/js/2.d593be63.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/xkcd-slideshow/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd46f6f.js",
+    "static/js/2.d593be63.chunk.js",
+    "static/css/main.6670f2c8.chunk.css",
+    "static/js/main.c0ab6721.chunk.js"
+  ]
+}
